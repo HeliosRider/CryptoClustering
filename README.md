@@ -16,7 +16,7 @@ completing the following:
   3. sklearn.cluster: KMeans
   4. sklearn.decomposition: PCA
   5. sklearn.preprocessing: StandardScaler
-  6. Jupyter Notebook
+
 
 # Data Analysis
 1. Elbow Curve 1 yieled cluster 4 to be the best value for k in original data set
